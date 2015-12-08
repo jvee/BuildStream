@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jvee/BuildStream",
   "dependencies": {
-    "duplexer2": "^0.1.4"
+    "highland": "^2.5.1"
   }
 }
